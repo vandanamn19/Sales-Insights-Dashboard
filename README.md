@@ -17,3 +17,5 @@ Tech Stack:
 
 Use Case:
 Ideal for Sales Directors, Sales Managers, and Business Analysts seeking a visual and real-time overview of sales performance to identify growth opportunities, optimize sales strategies, and track performance KPIs.
+
+Dashboard Link: https://app.powerbi.com/links/UJnY_QFzCg?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare
